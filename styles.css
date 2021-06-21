@@ -1,0 +1,11 @@
+.home{
+   background-image: url("images/a2.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 80vh;
+}
+.text{
+    display: block;
+    text-align: center;
+
+}
