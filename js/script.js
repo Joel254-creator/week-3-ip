@@ -1,5 +1,4 @@
 $(document).ready(function(){
-<<<<<<< HEAD
     $("#development-image").click(function(){
       $("#development-image").slideDown('1500').hide('1000');
       $("#development").show('1500');
@@ -101,42 +100,3 @@ $(document).ready(function(){
   
   });
   
-=======
-    $(".design").click(function() {
-        $(".design").toggle();
-        $(".design-hidden") .toggle();
-    }
-    $(".design").click(function() {
-        $(".design").toggle();
-        $(".design-hidden") .toggle();
-    }
-);
-$(".development").click(function() {
-    $(".development-showing").toggle();
-    $(".development-hidden").toggle();
-})
-$(".product").click(function() {
-    $(".product-showing").toggle();
-    $(".product-hidden").toggle();
-})});.mouse-click {
-    animation: bounce 3s infinite;
-}
-  @keyframes bounce {
-    0%,
-    20%,
-    50#mouse_click{
-      animation: bounce 2s infinite;  
-      padding-top: 20px;  
-      padding-bottom:20px;%,
-    80%,
-    100% {
-        transform: translateY(0);
-}
-    40% {
-        transform: translateY(-55px);
-    }
-    60% {
-        transform: translateY(-45px);
-}
-
->>>>>>> b1fa52c549c9bcbb9a6db90bd6a88ed30555942a
