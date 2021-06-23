@@ -1,6 +1,6 @@
 # week-3-ip
 
-##Delani studio
+## Delani studio
 
 #### A landing page of Delani Studio
 #### By **Joel Ndungu**
